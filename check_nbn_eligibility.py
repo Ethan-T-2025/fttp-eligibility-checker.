@@ -31,3 +31,5 @@ def check_eligibility(address):
 if __name__ == "__main__":
     address = sys.argv[1]
     print(check_eligibility(address))
+pip install selenium
+``
